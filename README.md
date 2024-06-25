@@ -1,4 +1,3 @@
-# .github
 ## 👋 Olá, bem vindo ao meu GitHub
 <!--
 - 🔭 Atualmente estou trabalhando em ...

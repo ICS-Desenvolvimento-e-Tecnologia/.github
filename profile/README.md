@@ -11,8 +11,8 @@
 
  <div>
   <a href="https://github.com/ICS-Desenvolvimento-e-Tecnologia">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mquefi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mquefi&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ICS-Desenvolvimento-e-Tecnologia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ICS-Desenvolvimento-e-Tecnologia&layout=compact&langs_count=8&theme=gotham"/>
  </div>
 
 
